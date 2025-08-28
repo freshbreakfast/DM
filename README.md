@@ -3,29 +3,23 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>鮮到味｜最新活動海報</title>
+  <title>好禮大放送 DM</title>
   <style>
-    body {
-      font-family: "Microsoft JhengHei", sans-serif;
-      background: #fdfdfd;
-      text-align: center;
+    html, body {
       margin: 0;
-      padding: 20px;
-    }
-    h1 {
-      color: #333;
-      margin-bottom: 20px;
+      padding: 0;
+      height: 100%;
+      background-color: #000; /* 背景黑色，海報更突出 */
     }
     img {
-      max-width: 90%;
-      height: auto;
-      border-radius: 12px;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+      width: 100%;
+      height: 100%;
+      object-fit: contain; /* 確保整張海報完整呈現 */
+      display: block;
     }
   </style>
 </head>
 <body>
-  <h1>鮮到味｜最新活動海報</h1>
-  <img src="haibao.jpg" alt="鮮到味 海報">
+  <img src="DM 好禮大放送.jpg" alt="活動海報">
 </body>
 </html>
