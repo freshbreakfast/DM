@@ -20,6 +20,6 @@
   </style>
 </head>
 <body>
-  <img src="DM 好禮大放送.jpg" alt="活動海報">
+  <img src="DM 豆漿三款 直式-印版.jpg" alt="活動海報">
 </body>
 </html>
