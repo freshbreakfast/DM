@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>DM 豆漿三款 直式-印版</title>
+  <title>DM-豆漿三款-直式-印版</title>
   <style>
     html, body {
       margin: 0;
@@ -20,6 +20,6 @@
   </style>
 </head>
 <body>
-  <img src="DM 豆漿三款 直式-印版.jpg" alt="活動海報">
+  <img src="DM-豆漿三款-直式-印版.jpg" alt="活動海報">
 </body>
 </html>
