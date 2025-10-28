@@ -39,7 +39,7 @@
   </style>
 </head>
 <body>
-  <img src="DM-豆漿三款-直式-印版.jpg" alt="活動海報">
+  <img src="DM-豆漿三款-直式-印版.png" alt="活動海報">
   <div class="hint">點一下畫面進入全螢幕</div>
 
   <script>
